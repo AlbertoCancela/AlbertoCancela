@@ -12,20 +12,22 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/albertocancela/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="mailto:albertocancelaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-        <!-- <a href="#"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>-->
+        
+¡Open to Work!
     </div>
 </div>
 
 <h1> About me...</h1>
     Hello! I'm Alberto Cancela, a passionate developer with a love for php and JS/TS.  
     I enjoy building scalable applications, exploring new technologies, and solving problems with code.
+    
     I want to move out from Acapulco :)
     
     - 💻 Currently working on Universidad Hipócrates.  
-    - 🚀 Learning **[Tecnología o Lenguaje Actual]**  
-    - 🎯 Focused on **[Tu Especialidad o Nicho]**  
-    - 📬 Reach me at **[Tu Email]**  
-    - 🌎 Also, check out my **[Portfolio](https://tuportafolio.com)**  
+    - 🚀 Learning Angular and CodeIgniter  
+    - 🎯 Focused on POA's sistem  
+    - 📬 Reach me at albertocancelaa@gmail.com  
+    - 🌎 Also, check out my Portfolio... uhm, I still working on that jaha  
     
 <h1 align="left">🧠 Skills Showcase</h1>
 
