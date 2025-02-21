@@ -22,13 +22,13 @@
     Hello! I'm Alberto Cancela, a passionate developer with a love for php and JS/TS.  
     I enjoy building scalable applications, exploring new technologies, and solving problems with code.
     
-    I want to move out from Acapulco :)
     
     - 💻 Currently working on Universidad Hipócrates.  
     - 🚀 Learning Angular and CodeIgniter  
     - 🎯 Focused on POA's sistem  
     - 📬 Reach me at albertocancelaa@gmail.com  
     - 🌎 Also, check out my Portfolio... uhm, I still working on that jaha  
+    - ✈️ I want to move out from Acapulco :)
     
 <h1 align="left">🧠 Skills Showcase</h1>
 
@@ -44,6 +44,7 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -80,7 +81,7 @@
 
 <div align="center">
 
-![Not a brag, just the truth](https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/giphy.webp)
+<!-- ![heyheyhey](https://raw.githubusercontent.com/albertocancela) -->
 
 </div>
 
