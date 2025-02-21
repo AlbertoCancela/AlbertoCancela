@@ -79,6 +79,15 @@
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<div align="center"> 
+  <p>Visitor count</p>
+<!--  <img src="https://profile-counter.glitch.me/albertocancela/count.svg" alt="Visitor's Count" /> -->
+</div>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=albertocancela&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
+  <!-- <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertocancela&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" /> -->
+</div>
+
 <div align="center">
 
 <!-- ![heyheyhey](https://raw.githubusercontent.com/albertocancela) -->
