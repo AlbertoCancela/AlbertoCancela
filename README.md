@@ -10,14 +10,23 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8BHi+there+I'm+AlbertoCancela;Backend/Frontend+developer;🇲🇽Mexican+Dev;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/albertocancela/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="mailto:albertocancelaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+        <!-- <a href="#"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>-->
     </div>
 </div>
 
 <h1> About me...</h1>
-
+    Hello! I'm Alberto Cancela, a passionate developer with a love for php and JS/TS.  
+    I enjoy building scalable applications, exploring new technologies, and solving problems with code.
+    I want to move out from Acapulco :)
+    
+    - 💻 Currently working on Universidad Hipócrates.  
+    - 🚀 Learning **[Tecnología o Lenguaje Actual]**  
+    - 🎯 Focused on **[Tu Especialidad o Nicho]**  
+    - 📬 Reach me at **[Tu Email]**  
+    - 🌎 Also, check out my **[Portfolio](https://tuportafolio.com)**  
+    
 <h1 align="left">🧠 Skills Showcase</h1>
 
 ### ☕️Languages
