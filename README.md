@@ -25,7 +25,7 @@
     
     - 💻 Currently working on Universidad Hipócrates.  
     - 🚀 Learning Angular and CodeIgniter  
-    - 🎯 Focused on POA's sistem  
+    - 🎯 Focused on studying english 
     - 📬 Reach me at albertocancelaa@gmail.com  
     - 🌎 Also, check out my Portfolio... uhm, I still working on that jaha  
     - ✈️ I want to move out from Acapulco :)
